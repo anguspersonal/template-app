@@ -1,7 +1,7 @@
 {
-  "name": "angushallyappV1-Backend",
+  "name": "template_app",
   "version": "1.0.0",
-  "description": "Backend for the angushallyappV1 project",
+  "description": "template_app",
   "main": "index.js",
   "scripts": {
     "start": "node backend/index.js",
